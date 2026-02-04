@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# NumPy / data outputs
+*.npy
+*.npz
+
+# MD outputs
+md_output/
+md_cluster/
+
+# Logs
+logs/*.log
+logs/*.out
+logs/*.err
+
+# Editors
+*.swp
+*.swo
+.DS_Store
