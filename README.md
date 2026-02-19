@@ -391,4 +391,7 @@ git pull --rebase
 
 ### Maintainers
 
-- (Add names/emails if desired)
+Klaudio Peqini\
+Department of Physics\
+Faculty of Natural Sciences\
+University of Tirana
