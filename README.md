@@ -1,4 +1,4 @@
-# lmdpy — Langevin Molecular Dynamics in Python                                             
+# lmdpy — Langevin Molecular Dynamics in Python                                              
 
 `lmdpy` is a research-grade and educational Python framework for **Langevin dynamics**, **Langevin Monte Carlo**, and **stochastic molecular dynamics**. It is built to be:
 
